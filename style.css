@@ -140,6 +140,8 @@ color: #ff7700;
   margin-bottom: 10px;
 }
 #principalimg{
- border-radius: 75px;
+ border-radius: 50px;
+ height: 25px;
+ width: 25px;
 }
 
